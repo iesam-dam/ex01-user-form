@@ -2,4 +2,4 @@
 
 El ejercicio consiste en añadir usuarios a un fichero xml con SharedPreferences. Se podrán añadir y eliminar. Sólo se podrán mostrar 5 filas.
 
-![Formulario](/assets/form.png)
+![Formulario](/assets/form.jpeg)
