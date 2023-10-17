@@ -23,8 +23,8 @@ El formulario tendrá los siguientes elementos:
 5. El usuario eliminará datos.
 
 ## Vídeo
-Vídeo con la solución al problema
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=4xHTrbfa3GI "Ejercicio Formulario en Android")
+Vídeo con la solución al problema  
+[<img src="https://i.ytimg.com/vi/4xHTrbfa3GI/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=4xHTrbfa3GI "Ejercicio Formulario en Android")
 
 
 ## Conceptos
