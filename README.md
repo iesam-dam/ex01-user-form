@@ -25,7 +25,9 @@ El formulario tendrá los siguientes elementos:
 ## Vídeo
 Vídeo con la solución al problema  
 
-{% include youtube.html id="4xHTrbfa3GI" %}
+{% include _includes/youtube.html id="4xHTrbfa3GI" %}
+[![Ejercicio Formulario en Android](https://img.youtube.com/vi/4xHTrbfa3GI/maxresdefault.jpg)](https://www.youtube.com/watch?v=4xHTrbfa3GI)
+
 
 ## Conceptos
 - Activity
